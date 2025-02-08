@@ -14,19 +14,19 @@
 12. [Meet the Team](#meet-the-team)
 
 ---
-## 🎯 Problem Statement
+## 🎯 Problem Statement:
 
 There are social engineering frauds in which fake accounts of prominent people are created on social media and their friends are approached to transfer certain money into the accounts of fraudsters. A technical solution is needed to be adopted by social media firms to automatically delete such fraud accounts.
 
 ---
 
-### 📖 Introduction
+### 📖 Project Idea:
 
 Fake accounts have become a huge problem on social media platforms like LinkedIn and Instagram. These accounts are used for scams, spreading misinformation, and even cyber fraud. This project helps detect fake accounts using Artificial Intelligence (AI) and Deep Learning, specifically Long Short-Term Memory (LSTM) networks. Our model analyzes user activity, engagement, and profile information to determine whether an account is real or fake.
 
 ---
 
-### 📖 Introduction to Cybercrime & Fake Accounts
+### 📖 Introduction to Cybercrime & Fake Accounts:
 
 In today’s digital world, cybercrime has become one of the biggest threats to individuals, businesses, and even governments. With the rise of social media and online platforms, criminals have found new ways to exploit users through fake accounts. These fake profiles are used for fraud, misinformation, scams, identity theft, and even cyberbullying.
 
@@ -44,7 +44,7 @@ Our project focuses on detecting fake accounts on LinkedIn and Instagram, which 
 
 ---
 
-### 2️⃣ Why Our Solution is Important?
+### Why Our Solution is Important?
 
 | Problem                                    | AI-Based Solution                                      | Impact                             |
 |--------------------------------------------|--------------------------------------------------------|------------------------------------|
@@ -57,13 +57,13 @@ Our project focuses on detecting fake accounts on LinkedIn and Instagram, which 
 
 ## 🛑 Why Fake Accounts are a Major Cybersecurity Threat
 
-💡 **Example 1: Fake LinkedIn Job Scams**
+**Example 1: Fake LinkedIn Job Scams**
 - John, a job seeker, receives a LinkedIn message from a recruiter offering a job at "Google."
 - The recruiter asks for an "application fee" of $500.
 - John sends the money, but the recruiter disappears.
 - It was a fake LinkedIn account created for phishing scams!
 
-💡 **Example 2: Fake Instagram Influencers**
+**Example 2: Fake Instagram Influencers**
 - A brand pays $10,000 to an Instagram influencer with 500,000 followers.
 - After the campaign, the brand realizes only 2% of the audience engaged!
 - Most of the followers were fake bots bought online!
@@ -138,7 +138,12 @@ Our project focuses on detecting fake accounts on LinkedIn and Instagram, which 
 ![Correlation_Heatmap](Images/Instagram_Visuals/Correlation_Heatmap.png)
 
 ---
-## 📉 Why LSTM? 
+### Data Preprocessing & Feature Engineering
+ ![Demo GIF](Images/Fake_Detection_LinkedIn.gif)
+ ![Demo GIF](Images/Fake_Detection_Instagram.gif)
+ 
+---
+## Why LSTM? 
 
 - **Long Short-Term Memory (LSTM):** A type of Recurrent Neural Network (RNN) that can learn long-term dependencies. It's great for sequential data and can identify patterns in user activities over time.
 - **Why LSTM for Fake Account Detection?**
@@ -193,10 +198,10 @@ Our project focuses on detecting fake accounts on LinkedIn and Instagram, which 
 
 | Metric      | LinkedIn Model | Instagram Model|
 |-------------|--------------- |----------------|
-| Accuracy    | **92.5%**      | **90.8%**      |
-| Precision   | **94.2%**      | **91.7%**      |
-| Recall      | **90.1%**      | **88.5%**      |
-| F1-Score    | **92.0%**      | **90.0%**      |
+| Accuracy    | **98.6%**      | **96.2%**      |
+| Precision   | **98.5%**      | **89.0%**      |
+| Recall      | **98.6%**      | **87.5%**      |
+| F1-Score    | **98.6%**      | **88.2%**      |
 
 ---
 
@@ -247,3 +252,23 @@ Our project focuses on detecting fake accounts on LinkedIn and Instagram, which 
 - Increases trust in social media platforms by removing fake accounts.
 
 
+## **Applications:**
+**1. Social Media Security:** Protecting users from fake profiles and scams.
+**2. Recruitment Platforms:** Identifying fraudulent job recruiters.
+**3. Influencer Marketing:** Ensuring brand collaborations with authentic accounts.
+**4. Financial Fraud Prevention:** Detecting scam accounts linked to phishing attempts.
+
+## **Meet The Team:**
+1. **Aryan Paratakke**:
+
+   - **GitHub**: [Aryan Paratakke GitHub](https://github.com/Aryan152005/)
+   - **LinkedIn**: [Aryan Paratakke LinkedIn](https://in.linkedin.com/in/aryan-paratakke-43b879276)
+
+2. **Arya Hotey**:
+
+   - **GitHub**: [Arya Hotey GitHub](https://github.com/Arya202004)
+   - **LinkedIn**: [Arya Hotey LinkedIn](https://in.linkedin.com/in/arya-hotey-aab5b32a7)
+
+3. **Nishtha Kashyap**:
+   - **GitHub**: [Nishtha Kashyap GitHub](https://github.com/nishtha932005)
+   - **LinkedIn**: [Nishtha Kashyap LinkedIn](https://in.linkedin.com/in/nishtha-kashyap-0b6846293)
