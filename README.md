@@ -1,4 +1,3 @@
-
 # Technical Report: Automated Fake Social Media Account Detection
 
 1. [Problem Statement](#problem-statement)
@@ -11,7 +10,8 @@
 8. [Training and Evaluation](#training-and-evaluation)
 9. [Step-by-Step Workflow](#step-by-step-workflow)
 10. [Deployment & Future Enhancements](#deployment--future-enhancements)
-11. [Meet the Team](#meet-the-team)
+11. [Meeting Evaluating Criteria](#meeting-evaluating-criteria)
+12. [Meet the Team](#meet-the-team)
 
 ---
 ## 🎯 Problem Statement
@@ -228,7 +228,7 @@ Our project focuses on detecting fake accounts on LinkedIn and Instagram, which 
   - Continuously update the dataset to detect evolving fake account strategies.
 
 
-**Meeting Evaluation Criteria:**
+## **Meeting Evaluation Criteria:**
 
 **1. Innovation-**
 - Uses deep learning to solve a pressing social media issue.
