@@ -139,8 +139,8 @@ Our project focuses on detecting fake accounts on LinkedIn and Instagram, which 
 
 ---
 ### Data Preprocessing & Feature Engineering
- ![Demo GIF](Images/Fake_Detection_LinkedIn.gif)
- ![Demo GIF](Images/Fake_Detection_Instagram.gif)
+ ![Demo GIF](Images/LinkedIn.gif)
+ ![Demo GIF](Images/Instagram.gif)
  
 ---
 ## Why LSTM? 
