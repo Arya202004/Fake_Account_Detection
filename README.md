@@ -186,14 +186,14 @@ Our project focuses on detecting fake accounts on LinkedIn and Instagram, which 
         N
     end
 ```
-
-## 🚀 How the LSTM Model Works
+### 🚀 How the LSTM Model Works
 
 1. **Input Layer**: Takes preprocessed user data as input.
 2. **LSTM Layers**: Identify patterns in sequential data (e.g., engagement trends).
 3. **Dense Layers**: Classifies accounts as real or fake.
 4. **Output Layer**: Predicts probability of an account being fake.
 
+---
 ### 📊 Model Performance:
 
 | Metric      | LinkedIn Model | Instagram Model|
@@ -232,7 +232,7 @@ Our project focuses on detecting fake accounts on LinkedIn and Instagram, which 
   - Use additional user metadata like IP addresses and geolocation for better accuracy.
   - Continuously update the dataset to detect evolving fake account strategies.
 
-
+---
 ## **Meeting Evaluation Criteria:**
 
 **1. Innovation-**
@@ -251,13 +251,17 @@ Our project focuses on detecting fake accounts on LinkedIn and Instagram, which 
 - Reduces financial loss caused by scams.
 - Increases trust in social media platforms by removing fake accounts.
 
-
+---
 ## **Applications:**
 **1. Social Media Security:** Protecting users from fake profiles and scams.
+
 **2. Recruitment Platforms:** Identifying fraudulent job recruiters.
+
 **3. Influencer Marketing:** Ensuring brand collaborations with authentic accounts.
+
 **4. Financial Fraud Prevention:** Detecting scam accounts linked to phishing attempts.
 
+---
 ## **Meet The Team:**
 1. **Aryan Paratakke**:
 
